@@ -1,5 +1,5 @@
 const Handlebars = require('handlebars');
-const moment = require('moment');
+const moment = require('jalali-moment');
 
 /**
  * Helper for creating customized date output
